@@ -28,6 +28,7 @@ Directory Descriptions
 Command Line Execution Format
 -----------------------------
 > aquarium boids.in boids.out
+
 > viewer boids.out
 
 Implementation Notes
